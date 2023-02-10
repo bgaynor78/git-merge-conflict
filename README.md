@@ -1,3 +1,3 @@
 # git-merge-conflict
 
-## This subheading created locally.
+## This subheading added in Github
